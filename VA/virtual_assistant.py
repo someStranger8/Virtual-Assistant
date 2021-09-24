@@ -12,6 +12,8 @@ def main():
             print("42")
         elif god == "up up down down left right left right b a start":
             print("super gamer mode unlocked")
+        elif god == "oh my god, they killed kenny":
+            print("thoose basterds")
         elif god == "hello":
             print("hi im POGGER your virtual assistant")
         elif god == "python3":
